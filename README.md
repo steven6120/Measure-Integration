@@ -16,6 +16,9 @@
 使用者需要選擇量度哪一個項目，並且在項目旁點擊「AR測量」。<br />
 ![image](https://user-images.githubusercontent.com/67748642/131543634-6f42b6cf-1d83-46cc-b207-89b5089a1643.png)
 
+如果先前沒有允許或點選只有允許一次程式的GPS權限的話，會顯示以下的畫面。<br />
+![image](https://user-images.githubusercontent.com/67748642/131547447-1aa22492-967b-4ab0-a7c1-94fe30a0fa25.png)
+
 接着程式會開始執行AR測量，使用者只需點擊並按着螢幕，同時移動手機，系統會在畫面中央位置根據移動手機的軌跡，開始繪畫線條和計算線條的長度，即時顯示在螢幕上。<br />
 當測量完畢時，點擊右上角相機按鈕可以記錄測量圖片，點擊左上角的X按鈕可以返回上一頁面，並且把測量資訊丶GPS定位座標丶記錄的圖片會傳到上一頁面中。<br />
 ![image](https://user-images.githubusercontent.com/67748642/131543911-c83d9a59-e390-4177-aaf9-f050d8ea1797.png)
@@ -27,3 +30,9 @@
 ![image](https://user-images.githubusercontent.com/67748642/131544251-c8a0d04a-5bcd-402b-b006-9e342494b6e7.png)
 
 ## 開發圖片
+### 畫面設計
+![鎴湒 2021-03-12 涓嬪崍6 34 07](https://user-images.githubusercontent.com/67748642/131546632-6720013e-1031-4b37-968c-b8700e6e76a2.png)
+### GPS權限
+![鎴湒 2021-03-16 涓嬪崍8 00 48](https://user-images.githubusercontent.com/67748642/131546677-3b7b247a-59b1-4cc8-9850-0052bf4ef1d9.png)
+### 預覽圖片
+![鎴湒 2021-03-16 涓嬪崍7 14 35](https://user-images.githubusercontent.com/67748642/131546683-674ac87f-6f4d-4524-8cd1-395f6137318d.png)
